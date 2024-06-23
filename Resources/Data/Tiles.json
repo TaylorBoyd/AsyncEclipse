@@ -1,0 +1,44 @@
+[
+{
+	"id":"110",
+	"name":"Iota Bootis",
+	"sector":1,
+	"moneyPop":[0,1],
+	"sciencePop":[0,0],
+	"materialPop":[0,0],
+	"neutralPop":[0,1],
+	"wormholes":[1,3,4,5],
+	"vp":2,
+	"ancient":0,
+	"guardian":0,
+	"gcds":0
+},
+{
+	"id":"101",
+	"name":"Castor",
+	"sector":1,
+	"moneyPop":[1,0],
+	"sciencePop":[0,0],
+	"materialPop":[1,1],
+	"neutralPop":[0,0],
+	"wormholes":[2,3,4,5,6],
+	"vp":2,
+	"ancient":1,
+	"guardian":0,
+	"gcds":0
+},
+{
+	"id":"105",
+	"name":"Zeta Hercules",
+	"sector":1,
+	"moneyPop":[1,0],
+	"sciencePop":[1,0],
+	"materialPop":[0,1],
+	"neutralPop":[0,0],
+	"wormholes":[1,2,4,5,6],
+	"vp":2,
+	"ancient":1,
+	"guardian":0,
+	"gcds":0
+}
+]
